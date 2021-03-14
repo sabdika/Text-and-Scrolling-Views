@@ -1,5 +1,4 @@
 ## Text and Scrolling Views
-  <b>Create Project: Scrolling Text</b>
-<img src="Screenshot_Of_Task/Task1_ProjectCreated.PNG" width="400">
+  Create Project: Scrolling Text
+<img src="Screenshot_Of_Task/Task1_ProjectCreated.PNG" width="500">
 
-  <figcaption>Code to change the layout to RelativeLayout<figcaption>
