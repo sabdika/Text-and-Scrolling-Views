@@ -1,3 +1,2 @@
-## Text and Scrolling Views
-Task 3: Scroll multiple elements
-//Left screen record
+## Scroll multiple elements
+![Completed Task 3](Screenshot_Of_Task/Task3_Completed.gif)
